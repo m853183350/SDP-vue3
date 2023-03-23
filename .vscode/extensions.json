@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "lokalise.i18n-ally",
+    "antfu.iconify",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "voorjaar.windicss-intellisense",
+    "csstools.postcss",
+    "MariusAlchimavicius.json-to-ts"
+  ]
+}
